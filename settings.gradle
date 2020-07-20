@@ -1,0 +1,3 @@
+include ':asmplugin'
+include ':app'
+rootProject.name = "ASMLifeCycleDemo"
